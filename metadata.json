@@ -1,0 +1,6 @@
+{
+  "name": "SIAP SATYA — Asisten Realisasi Belanja OPD",
+  "description": "Ruang kerja input massal, rincian komponen, kalkulasi pajak otomatis, dan pemetaan realisasi anggaran bulanan per rekening belanja OPD untuk aplikasi SIAP SATYA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
